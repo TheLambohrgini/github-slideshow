@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Mash Potato
+We are number one HEY!
 Use the left arrow to go back!
